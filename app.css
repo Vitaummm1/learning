@@ -21,6 +21,9 @@ body {
     color:#ea1c2c;
 }
 
+#mainNav .scrolled {
+    background-color: #F5B0CB;
+}
 .btn {
     background: #F7C5CE;
     border: 0;
